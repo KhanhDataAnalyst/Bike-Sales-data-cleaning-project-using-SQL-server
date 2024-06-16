@@ -1,4 +1,4 @@
-# European-Bike-sales-data-cleaning-
+# Bike-sales-data-cleaning-
 Big data cleansing using SQL server (all the querries used could be viewed in the Bike Sale Solution.ssmssln file).
 The sales dataset of bike stores in 6 developed countries from 2011 to 2016 was collected from Kaggle.com (the original data could be viewed in the Bike sale.csv file).
 To start the data cleansing process, the Global Bike Sale database is selected before executing any query. 
